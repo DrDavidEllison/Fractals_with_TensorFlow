@@ -1,2 +1,2 @@
-# Fractals_with_TensorFlow
+# Fractals with TensorFlow
 Using tensorflow to compute mandelbrot sets
