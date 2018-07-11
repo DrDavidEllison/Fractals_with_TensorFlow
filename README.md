@@ -3,7 +3,7 @@
 Using tensorflow to compute mandelbrot sets that fulfill a certain set of criteria:
   * is a complex number
   * which does not diverge by several applications of below function: <br>
-![Order_four](fractal_eq.jpeg) <br>
+![Order_four](fractal_eq.jpg) <br>
 
 
 The result set can be seen like this as you know. <br>
